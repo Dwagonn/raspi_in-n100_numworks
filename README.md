@@ -8,3 +8,5 @@ make: *** /lib/modules//build: No such file or directory.  Stop.
  )
 
  pls zardam help lol
+
+ if anyone can help i would gladly accept XD
